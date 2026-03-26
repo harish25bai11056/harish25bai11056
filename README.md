@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi there, I'm Harish Kumar! 👋
 
-<!--
-**harish25bai11056/harish25bai11056** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 Education
+* **Branch:** Computer Science & Engineering (AIML)
+* **Year:** 1st Year
+* **Institution:** VIT Bhopal
 
-Here are some ideas to get you started:
+### 🚀 About Me
+I am a passionate student focused on building impactful projects and honing my technical skills. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **My Goal:** This year, I hope to master cloud architecture and full-stack development to build scalable solutions that solve real-world problems.
+
+---
+
+### 🛠 Tech Stack
+* **Languages:** Python, JavaScript, C++
+* **Tools:** Git, Docker, VS Code
+
+### 📬 Connect with me
+LinkedIn: www.linkedin.com/in/harish-kumar-29057036a
+
+
